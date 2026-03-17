@@ -23618,5 +23618,23 @@
             {"id":13367, "colors":["green"]}
         ], "criteria":{"type":"gauge", "info":"Woven Tales", "text":"Desbloqueado en el evento de medidor\nWoven Tales"},
         "releaseDate":"2026-03-17"
+    },    
+    {
+        "groupId":13368, "zone":"waistToKnee", "category":"skirt", "security":"3ad6552da43ac66e", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Skirt",
+        "outfitName":"Woven Tales",
+        "variations":[
+            {"id":13368, "colors":["silver"]},
+            {"id":13369, "colors":["silver"]},
+            {"id":13370, "colors":["silver"]},
+            {"id":13371, "colors":["black"]},
+            {"id":13372, "colors":["white"]},
+            {"id":13373, "colors":["red"]},
+            {"id":13374, "colors":["golden"]},
+            {"id":13375, "colors":["pink"]},
+            {"id":13376, "colors":["silver"]},
+            {"id":13377, "colors":["green"]}
+        ], "criteria":{"type":"gauge", "info":"Woven Tales", "text":"Desbloqueado en el evento de medidor\nWoven Tales"},
+        "releaseDate":"2026-03-17"
     }
 ]
