@@ -23474,5 +23474,23 @@
             {"id":13327, "colors":["pink"]}
         ], "criteria":{"type":"pack", "info":"Roy's Vibe", "text":"Desbloqueado en el Pack exclusivo\nRoy's Vibe"},
         "releaseDate":"2026-02-18"
+    },    
+    {
+        "groupId":13338, "zone":"head", "category":"hat", "security":"5c782f381352cdb0", "multiLayered":true, "layerBehavior":"backInFront",
+        "name":"Veil",
+        "outfitName":"Woven Tales",
+        "variations":[
+            {"id":13206, "colors":["silver"]},
+            {"id":13207, "colors":["silver"]},
+            {"id":13208, "colors":["silver"]},
+            {"id":13209, "colors":["black"]},
+            {"id":13210, "colors":["white"]},
+            {"id":13211, "colors":["red"]},
+            {"id":13212, "colors":["golden"]},
+            {"id":13213, "colors":["pink"]},
+            {"id":13214, "colors":["silver"]},
+            {"id":13215, "colors":["green"]}
+        ], "criteria":{"type":"gauge", "info":"Woven Tales", "text":"Desbloqueado en el evento de medidor\nWoven Tales"},
+        "releaseDate":"2026-03-17"
     }
 ]
