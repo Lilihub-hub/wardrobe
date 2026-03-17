@@ -23476,7 +23476,7 @@
         "releaseDate":"2026-02-18"
     },    
     {
-        "groupId":13338, "zone":"head", "category":"hat", "security":"5c782f381352cdb0", "multiLayered":true, "layerBehavior":"backInFront",
+        "groupId":13338, "zone":"head", "category":"hat", "security":"5c782f381352cdb0", "multiLayered":true, "layerBehavior":"normal",
         "name":"Veil",
         "outfitName":"Woven Tales",
         "variations":[
