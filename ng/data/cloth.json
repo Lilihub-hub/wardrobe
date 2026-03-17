@@ -23546,5 +23546,23 @@
             {"id":13397, "colors":["green"]}
         ], "criteria":{"type":"gauge", "info":"Woven Tales", "text":"Desbloqueado en el evento de medidor\nWoven Tales"},
         "releaseDate":"2026-03-17"
+    },    
+    {
+        "groupId":13378, "zone":"torso_waistToKnee", "category":"waist", "security":"d09ab728e3bedde1", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Belt",
+        "outfitName":"Woven Tales",
+        "variations":[
+            {"id":13378, "colors":["silver"]},
+            {"id":13379, "colors":["silver"]},
+            {"id":13380, "colors":["silver"]},
+            {"id":13381, "colors":["black"]},
+            {"id":13382, "colors":["white"]},
+            {"id":13383, "colors":["red"]},
+            {"id":13384, "colors":["golden"]},
+            {"id":13385, "colors":["pink"]},
+            {"id":13386, "colors":["silver"]},
+            {"id":13387, "colors":["green"]}
+        ], "criteria":{"type":"gauge", "info":"Woven Tales", "text":"Desbloqueado en el evento de medidor\nWoven Tales"},
+        "releaseDate":"2026-03-17"
     }
 ]
