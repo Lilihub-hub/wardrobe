@@ -23528,5 +23528,23 @@
             {"id":13417, "colors":["green"]}
         ], "criteria":{"type":"gauge", "info":"Woven Tales", "text":"Desbloqueado en el evento de medidor\nWoven Tales"},
         "releaseDate":"2026-03-17"
+    },    
+    {
+        "groupId":13388, "zone":"torso", "category":"top", "security":"30c0ae845f8a710a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Face veil",
+        "outfitName":"Woven Tales",
+        "variations":[
+            {"id":13388, "colors":["silver"]},
+            {"id":13389, "colors":["silver"]},
+            {"id":13390, "colors":["silver"]},
+            {"id":13391, "colors":["black"]},
+            {"id":13392, "colors":["white"]},
+            {"id":13393, "colors":["red"]},
+            {"id":13394, "colors":["golden"]},
+            {"id":13395, "colors":["pink"]},
+            {"id":13396, "colors":["silver"]},
+            {"id":13397, "colors":["green"]}
+        ], "criteria":{"type":"gauge", "info":"Woven Tales", "text":"Desbloqueado en el evento de medidor\nWoven Tales"},
+        "releaseDate":"2026-03-17"
     }
 ]
