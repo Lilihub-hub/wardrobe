@@ -33351,7 +33351,7 @@
             {"id":19548, "colors":["green"]},
             {"id":19549, "colors":["pink"]},
             {"id":19550, "colors":["yellow"]},
-            {"id":19551, "colors":["pink"]}
+            {"id":19541, "colors":["pink"]}
         ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
         "releaseDate":"2026-11-04"
     },
