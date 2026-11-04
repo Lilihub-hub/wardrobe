@@ -793,8 +793,8 @@
                     {"id":384, "colors":["green"]},
                     {"id":385, "colors":["orange"]},
                     {"id":386, "colors":["brown"]}
-                ], "criteria":{"type":"pack", "info":"Fox Illusion", "text":"Desbloqueado en el Pack exclusivo\nFox Illusion"},
-                "releaseDate":"2026-09-02"
+                ], "criteria":null,
+                "releaseDate":"2026-11-04"
             },
             {
                 "groupId":368, "zone":"face", "category":"eyes", "security":"268def0b05800603",
