@@ -32965,15 +32965,15 @@
         "outfitName":"Mini Studs",
         "variations":[
             {"id":19740, "colors":["black"]},
-            {"id":19741, "colors":["red"]},
-            {"id":19742, "colors":["white"]},
-            {"id":19743, "colors":["brown"]},
-            {"id":19744, "colors":["purple"]},
-            {"id":19745, "colors":["blue"]},
-            {"id":19746, "colors":["green"]},
-            {"id":19747, "colors":["pink"]},
-            {"id":19748, "colors":["yellow"]},
-            {"id":19749, "colors":["pink"]}
+            {"id":19732, "colors":["red"]},
+            {"id":19733, "colors":["white"]},
+            {"id":19734, "colors":["brown"]},
+            {"id":19735, "colors":["purple"]},
+            {"id":19736, "colors":["blue"]},
+            {"id":19737, "colors":["green"]},
+            {"id":19738, "colors":["pink"]},
+            {"id":19739, "colors":["yellow"]},
+            {"id":19731, "colors":["pink"]}
         ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
         "releaseDate":"2026-11-04"
     },
