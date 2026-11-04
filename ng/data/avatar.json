@@ -1362,8 +1362,8 @@
                     {"id":258, "colors":["black","green"]},
                     {"id":259, "colors":["black","grey"]},
                     {"id":260, "colors":["black","orange"]}
-                ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nScientist's Creature (Halloween 2026)"},
-                "releaseDate":"2026-10-27"
+                ], "criteria":null,
+                "releaseDate":"2026-11-04"
             }
         ]
     },
