@@ -33462,5 +33462,23 @@
             {"id":19540, "colors":["white"]}
         ], "criteria":null,
         "releaseDate":"2026-11-04"
+    },
+    {
+        "groupId":19521, "zone":"face", "category":"makeup", "security":"8f0c93fda6efa78a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Cyber",
+        "outfitName":null,
+        "variations":[
+            {"id":19521, "colors":["brown"]},
+            {"id":19522, "colors":["pink"]},
+            {"id":19523, "colors":["white"]},
+            {"id":19524, "colors":["white"]},
+            {"id":19525, "colors":["white"]},
+            {"id":19526, "colors":["white"]},
+            {"id":19527, "colors":["white"]},
+            {"id":19528, "colors":["white"]},
+            {"id":19529, "colors":["white"]},
+            {"id":19530, "colors":["white"]}
+        ], "criteria":null,
+        "releaseDate":"2026-11-04"
     }
 ]
