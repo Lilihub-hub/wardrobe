@@ -32947,6 +32947,7 @@
         "outfitName":"Mini Butterfly",
         "variations":[
             {"id":19512, "colors":["black"]},
+            {"id":19511, "colors":["black"]},
             {"id":19513, "colors":["red"]},
             {"id":19514, "colors":["white"]},
             {"id":19515, "colors":["brown"]},
@@ -32954,8 +32955,7 @@
             {"id":19517, "colors":["blue"]},
             {"id":19518, "colors":["green"]},
             {"id":19519, "colors":["pink"]},
-            {"id":19520, "colors":["yellow"]},
-            {"id":19521, "colors":["pink"]}
+            {"id":19520, "colors":["yellow"]}
         ], "criteria":{"type":"gameEvent", "info":"halloween-2026", "text":"Desbloqueado en el Pack exclusivo\nMini Cara Mia (Halloween 2026)"},
         "releaseDate":"2026-11-04"
     },
